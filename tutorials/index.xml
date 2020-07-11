@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on Rudh</title>
+    <link>https://rudhkul.github.io/tutorials/</link>
+    <description>Recent content in Tutorials on Rudh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Feb 2018 12:21:57 -0500</lastBuildDate>
+    
+	<atom:link href="https://rudhkul.github.io/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tutorial on Installation of OpenFOAM, preCICE, OpenFOAM-Adapter, and MBDyn</title>
+      <link>https://rudhkul.github.io/tutorials/fsi/</link>
+      <pubDate>Fri, 17 May 2019 02:37:36 +0530</pubDate>
+      
+      <guid>https://rudhkul.github.io/tutorials/fsi/</guid>
+      <description>IMP: UPDATED CASE AND ADAPTER SETTINGS AVAILABLE AT &amp;ndash; https://github.com/rudhkul/fsicavity.
+Firstly, install OpenFOAM 5 and Paraview (as the PRECICE adapter currenlty supports this latest version) by using the following commands:
+sudo sh -c &amp;#34;wget -O - http://dl.openfoam.org/gpg.key | apt-key add -&amp;#34; sudo add-apt-repository http://dl.openfoam.org/ubuntu sudo apt-get update sudo apt-get -y install openfoam5  After the installation is over, add . /opt/openfoam5/etc/bashrc to your ~/.bashrc file.
+ Once, the OpenFOAM software has been installed and the library has been included, the OpenFOAM-Adapter with FSI capabilities should be built.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,102 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Call me Sam</title>
+    <title>Rudh</title>
     <link>https://rudhkul.github.io/</link>
-    <description>Recent content on Call me Sam</description>
+    <description>Recent content on Rudh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Mar 2018 20:18:53 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://rudhkul.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Video post</title>
-      <link>https://rudhkul.github.io/posts/video-post/</link>
-      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
+      <title>The Return Gift</title>
+      <link>https://rudhkul.github.io/posts/a-return/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rudhkul.github.io/posts/video-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+      <guid>https://rudhkul.github.io/posts/a-return/</guid>
+      <description>&amp;ldquo;I will buy you the toy car on your birthday, Varun,&amp;rdquo; yelled Mumma.
+&amp;ldquo;But,&amp;rdquo; Varun tried to reason with her.
+&amp;ldquo;What has Mumma told you to do when she is working?&amp;rdquo; Mumma bristled with rage while continuously typing a mail to her colleague.
+&amp;ldquo;Do - not - disturb,&amp;rdquo; Varun replied to the floor and walked away while folding his hands as if he&amp;rsquo;s trying to contain his anger.
+During the dinner, there was an awkward silence.</description>
     </item>
     
     <item>
-      <title>_Long_ Form Post</title>
-      <link>https://rudhkul.github.io/posts/long-form-post/</link>
-      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      <title>Tutorial on Installation of OpenFOAM, preCICE, OpenFOAM-Adapter, and MBDyn</title>
+      <link>https://rudhkul.github.io/tutorials/fsi/</link>
+      <pubDate>Fri, 17 May 2019 02:37:36 +0530</pubDate>
       
-      <guid>https://rudhkul.github.io/posts/long-form-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum. Elementum nisi quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
+      <guid>https://rudhkul.github.io/tutorials/fsi/</guid>
+      <description>IMP: UPDATED CASE AND ADAPTER SETTINGS AVAILABLE AT &amp;ndash; https://github.com/rudhkul/fsicavity.
+Firstly, install OpenFOAM 5 and Paraview (as the PRECICE adapter currenlty supports this latest version) by using the following commands:
+sudo sh -c &amp;#34;wget -O - http://dl.openfoam.org/gpg.key | apt-key add -&amp;#34; sudo add-apt-repository http://dl.openfoam.org/ubuntu sudo apt-get update sudo apt-get -y install openfoam5  After the installation is over, add . /opt/openfoam5/etc/bashrc to your ~/.bashrc file.
+ Once, the OpenFOAM software has been installed and the library has been included, the OpenFOAM-Adapter with FSI capabilities should be built.</description>
     </item>
     
     <item>
-      <title>**Image** post</title>
-      <link>https://rudhkul.github.io/posts/image-post/</link>
-      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
-      
-      <guid>https://rudhkul.github.io/posts/image-post/</guid>
-      <description>Hello! I&amp;rsquo;m a blog post with an image. Thanks to Open Graph and Twitter metadata, external links to this page will feature the image below.
-To make this happen, set the images parameter in your post&amp;rsquo;s front-matter, like this YAML example:
-images: - /posts/ideas.png </description>
-    </item>
-    
-    <item>
-      <title>`Code` Poetry</title>
-      <link>https://rudhkul.github.io/posts/code-poetry/</link>
-      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
-      
-      <guid>https://rudhkul.github.io/posts/code-poetry/</guid>
-      <description>Pseudo code poem.
-if (this === that): try write_new_poem() except not_a_poet as e: return e e cummings?
-console.log(&amp;#39;eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee&amp;#39;) An embedded gist using shortcode:
- </description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title>Bio</title>
       <link>https://rudhkul.github.io/about/</link>
       <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
       <guid>https://rudhkul.github.io/about/</guid>
-      <description>Hello, I&amp;rsquo;m Sam. I&amp;rsquo;m a theme for Hugo. I&amp;rsquo;m an extremely customizable, content-focused theme that lets you showcase your work your way. I&amp;rsquo;m open source on GitHub.
-I have slick minimalist templates for list pages (such as a list of blog posts) and single pages (a page to read one blog post). You can use tags on your content, and view content by tags.
-I also have a simple responsive gallery built with CSS grid.</description>
+      <description>Anirudh was born in Bengaluru (Karnataka), grew up in Solapur (Maharashtra) and is staying in Indore (Madhya Pradesh). He spent the first half of his life in Solapur, where he did Bachelors in Mechanical Engineering from Walchand Insitute of Technology. Currently, he has submitted his PhD thesis at the Indian Institute of Technology Indore and is awaiting for the review. He has also worked as a CAD-CAE-CFD Consultant in a notable firm at Solapur.</description>
     </item>
     
     <item>
-      <title>Dear Jane, regarding Mr. Bennet</title>
-      <link>https://rudhkul.github.io/posts/dear-jane/</link>
-      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      <title>Contact</title>
+      <link>https://rudhkul.github.io/contact/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>https://rudhkul.github.io/posts/dear-jane/</guid>
-      <description>Chapter One It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.
-However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.</description>
+      <guid>https://rudhkul.github.io/contact/</guid>
+      <description>  Email: rudhkul@gmail.com
+  Google Scholar
+  ResearchGate
+  LinkedIn
+  GitHub
+  Twitter
+  Reddit
+  Curriculum vitae
+  </description>
     </item>
     
     <item>
-      <title>Oh, Alice</title>
-      <link>https://rudhkul.github.io/posts/oh-alice/</link>
-      <pubDate>Fri, 09 Feb 2018 12:32:12 -0500</pubDate>
+      <title>Publications (Scopus h-index: 6)</title>
+      <link>https://rudhkul.github.io/publications/</link>
+      <pubDate>Tue, 13 Feb 2018 13:42:49 -0500</pubDate>
       
-      <guid>https://rudhkul.github.io/posts/oh-alice/</guid>
-      <description>Nor did such soothing scenes, however temporary, fail of at least as temporary an effect on Ahab. But if these secret golden keys did seem to open in him his own secret golden treasuries, yet did his breath upon them prove but tarnishing. Alice opened the door and found that it led into a small passage, not much larger than a rat-hole: she knelt down and looked along the passage into the loveliest garden you ever saw.</description>
-    </item>
-    
-    <item>
-      <title>A Poem</title>
-      <link>https://rudhkul.github.io/posts/a-poem/</link>
-      <pubDate>Thu, 01 Feb 2018 12:35:11 -0500</pubDate>
-      
-      <guid>https://rudhkul.github.io/posts/a-poem/</guid>
-      <description>Now pleasing sleep had seal&amp;rsquo;d each mortal eye,
-Stretch&amp;rsquo;d in the tents the Grecian leaders lie:
-The immortals slumber&amp;rsquo;d on their thrones above;
-All, but the ever-wakeful eyes of Jove.(76)
-To honour Thetis&amp;rsquo; son he bends his care,
-And plunge the Greeks in all the woes of war:
-Then bids an empty phantom rise to sight,
-And thus commands the vision of the night.
-&amp;ldquo;Fly hence, deluding Dream! and light as air,(77)</description>
+      <guid>https://rudhkul.github.io/publications/</guid>
+      <description>Scopus Author Identifier - 57190669612.
+  Anirudh, K., and S. Dhinakaran. &amp;ldquo;Numerical study on performance improvement of a flat-plate solar collector filled with porous foam.&amp;rdquo; Renewable Energy 147 (2020): 1704-1717.
+  Anirudh, K., and S. Dhinakaran. &amp;ldquo;Performance improvement of a flat-plate solar collector by inserting intermittent porous blocks.&amp;rdquo; Renewable Energy 145 (2020): 428-441.
+  Anirudh, K., and S. Dhinakaran. &amp;ldquo;Effects of Prandtl number on the forced convection heat transfer from a porous square cylinder.</description>
     </item>
     
   </channel>
